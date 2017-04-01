@@ -2,10 +2,11 @@
 
 *This serves as a step-by-step, intro to the Webpack module bundler*
 
-## Setup
-1. `git clone https://github.com/{YOUR HANDLE}/webpack-2.git`
-2. `cd webpack-2`
-3. `npm i`
-4. `npm run build`
-5. open index.html in browser
-6. have some fun!!!
+## Usage:
+*The optimal way would be to work through this side-by-side, building your own repo*
+1. Fork and/or clone this repo
+2. `git branch -r` - to see the branches
+3. Checkout to a branch
+4. Build your own project via the instructions
+5. Break something and fix it
+6. Create a new empty branch, and rebuild as best as you can from memory
