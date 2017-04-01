@@ -2,7 +2,7 @@
 
 *This serves as a step-by-step, intro to the Webpack module bundler*
 
-## Usage:
+## Getting Started
 *The optimal way would be to work through this side-by-side, building your own repo*
 1. Fork and/or clone this repo
 2. `git branch -r` - to see the branches
